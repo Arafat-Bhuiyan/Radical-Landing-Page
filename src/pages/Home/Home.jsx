@@ -1,5 +1,4 @@
 import bgImg from "@/assets/images/content-bg2.png";
-import dots from "@/assets/images/dots.png";
 import { Link } from "react-router-dom";
 
 export function Home() {
