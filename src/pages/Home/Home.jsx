@@ -1,4 +1,4 @@
-import bgImg from "@/assets/images/Home.png";
+import bgImg from "@/assets/images/Home2.png";
 import logo from "@/assets/images/logo-2.png";
 import { Link } from "react-router-dom";
 
